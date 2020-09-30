@@ -9,6 +9,6 @@ create table if not exists exchange_rate
 );
 
 insert into exchange_rate (currency_from, currency_to, cource, updated_at)
-values ('USD', 'RUB', 78.31, NOW());
+values ('USD', 'RUB', -1, NOW());
 insert into exchange_rate (currency_from, currency_to, cource, updated_at)
-values ('RUB', 'USD', 0.013, NOW());
+values ('RUB', 'USD', -1, NOW());

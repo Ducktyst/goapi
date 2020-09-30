@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc2f25cc-f953-430b-8e77-3687cee6946f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/database/database.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/database/database.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/update_rate/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/update_rate/parser.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations-go/000001_create-tables.up.sql" beforeDir="false" afterPath="$PROJECT_DIR$/migrations-go/000001_create-tables.up.sql" afterDir="false" />
-    </list>
+    <list default="true" id="dc2f25cc-f953-430b-8e77-3687cee6946f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wip" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -139,28 +133,23 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/internal/update_rate/parser.go</url>
-          <line>109</line>
+          <line>101</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/internal/update_rate/parser.go</url>
-          <line>89</line>
+          <line>82</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/internal/update_rate/parser.go</url>
-          <line>70</line>
+          <line>63</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/internal/update_rate/parser.go</url>
-          <line>102</line>
+          <line>94</line>
           <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/internal/database/database.go</url>
-          <line>67</line>
-          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
